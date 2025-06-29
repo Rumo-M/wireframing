@@ -56,3 +56,24 @@ Overall, wireframing is a cost-effective, efficient step that guides software pr
 - **Community resources:** Plenty of templates and plugins available to speed up design.
 
 Figma is an excellent choice for wireframing due to its ease of use, collaborative features, and powerful design capabilities.
+
+## Wireframing in Practice
+
+In a real-world project developing a mobile booking app, wireframing played a vital role in identifying usability issues early on. During the wireframing phase, the design team created low-fidelity layouts illustrating the booking flow, including searching for services, selecting options, and confirming appointments.
+
+### Identified Issues
+
+The wireframes revealed that users might struggle with navigating between search results and booking confirmation screens due to unclear button placement and lack of progress indicators. Stakeholders also noticed that the booking cancellation option was not easily accessible.
+
+### Resolution
+
+Based on the wireframes and team feedback, the designers rearranged the navigation buttons to be more prominent and added a step-by-step progress bar to guide users through the booking process. The cancellation option was moved to a more visible location on the confirmation screen.
+
+### Impact on the Final Product
+
+These changes significantly improved the user experience by making the app more intuitive and reducing confusion during critical steps. The early identification and resolution of these issues prevented costly redesigns during development and testing phases.
+
+### Conclusion
+
+Wireframing serves as an essential practice in software development to ensure usability and clarity. By providing a visual and interactive guide before coding begins, wireframes help teams detect problems early, improve communication, and ultimately deliver user-friendly products that meet user needs.
+
